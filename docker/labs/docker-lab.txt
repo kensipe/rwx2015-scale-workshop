@@ -1,0 +1,25 @@
+1 docker bash
+2. create a text file
+3. commit your image
+4. install java
+
+need github repo
+
+1. need dockerfile
+
+	once with manual (tomcat)
+	once with with docker file
+
+spin up 3 tomcat instances
+
+curl them
+
+deploy calendar to 1
+browser them
+
+
+
+
+## java docker
+1. docker run -i -t ubuntu
+2. apt-get update
